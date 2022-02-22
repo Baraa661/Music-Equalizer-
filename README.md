@@ -1,7 +1,7 @@
-#Music-Equalizer-
+## Music-Equalizer-
 An application for musical instruments emphasizer where:
 
-#IN Tab 1
+# IN Tab 1
 The user can open any music file, and play or pause it as a signal while hearing it.
 The user can control the volume of the music from inside the program by a slider.
 The user can see the song histogram while running the signal.
@@ -10,7 +10,7 @@ For each instrument, there is a slider(connected to a certain frecquency range) 
 
 https://user-images.githubusercontent.com/61360832/155122313-ed5320f8-47a6-40eb-acd9-28d96fb81db2.mp4
 
-#IN Tab 2
+# IN Tab 2
 The user can play three different instruments(Piano/Saxophone/Bell)
 The user can play these instruments by clicking on them.
 For the piano the user can change the settings which gives another sound to it and also can play it with the keyboard with a special shortcuts(z,x,c,v,b,n,m,s,d,f,g,h,j)
